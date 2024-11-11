@@ -1,6 +1,7 @@
 ## Project Structure
 
 The following is the structure of the **Music Recommendation System** project, designed to provide a clear overview of the files and folders used. This README will explain the purpose and functionality of each component, ensuring easy navigation through the project files.
+- this is how we have to create the folder placing the apropriate files in that folders in your project directory
 
 
 music_recommendation_system/
